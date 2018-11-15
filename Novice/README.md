@@ -2,6 +2,13 @@
 
 Few Interesting C++ Programs to get you started
 
+## DECIMAL TO BINARY
+> Using Long Division Method
+
+`pow()` is s `<cmath` function that return the value of base to the power of the exponential its has the syntax `pow(base,exp)`
+
+This code can accept values of upto 4 bytes singed inputs (not recommnded if you have negative values) i.e, input range is from **0** to **2,147,483,647**
+
 ## EPSILON
 
 > Using Knuth's Algorithm for comparing floating point values
