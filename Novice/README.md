@@ -41,7 +41,7 @@ bits.set(option1); // set bit 1 to 1. Option 1 is a const int which needs to be 
 bits.fip(option2); // flip bit 2.
 bits.reset(opton2); // resets bit 2 back to 0.
 
-std::cout << "Bit 2 has value: " << bits.test(option2) <<"\n"; \\ check the current value of bit 2
+std::cout << "Bit 2 has value: " << bits.test(option2) <<"\n"; // check the current value of bit 2
 
 ````
 Has built in test for inputs for powers but not for display settings.
