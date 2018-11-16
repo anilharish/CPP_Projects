@@ -34,7 +34,7 @@ You can change the value of Absoulte Epsilon **absepsilon** and Relative Epsilon
 
 `std::bitset<8> bits(0x2);` is a <bitset> library function that helps in manipulation of bitflags. It provides 4 key functions
 
-**NOTE: ** * With std::bitset, our options correspond to the bit indices, not the bit patterns itself*
+**NOTE: ** _With std::bitset, our options correspond to the bit indices, not the bit patterns itself_
 
 ```cpp
 bits.set(option1); // set bit 1 to 1. Option 1 is a const int which needs to be declared.
